@@ -1,7 +1,7 @@
 {
-  "name": "vue-spa-template",
+  "name": "<%= projectName %>",
   "version": "0.0.1",
-  "description": "A vue.js template for single-page application",
+  "description": "<%= description %>",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --config build/webpack.dev.conf.js",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jackie-gan/vue-spa-template.git"
+    "url": "git+https://github.com/Clearlove07/vue-spa-template.git"
   },
-  "author": "jackie-gan",
+  "author": "Clearlove07",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jackie-gan/vue-spa-template/issues"
+    "url": "https://github.com/Clearlove07/vue-spa-template/issues"
   },
-  "homepage": "https://github.com/jackie-gan/vue-spa-template#readme",
+  "homepage": "https://github.com/Clearlove07/vue-spa-template#readme",
   "devDependencies": {
     "autoprefixer": "^9.6.4",
     "babel-core": "^6.26.3",
